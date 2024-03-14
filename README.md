@@ -1,4 +1,4 @@
-This is a To-Do List built with React!
+This is a Notes App built with React!
 
 Screenshot of what application looks like is provided in web-screenshots
 
